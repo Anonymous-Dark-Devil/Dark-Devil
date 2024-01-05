@@ -1,6 +1,6 @@
 <div align=center>
  
-# 🚀 DarkDevil: Release v1.4 - Free DDoS Panel 🚀
+# 🚀 DarkDevil: - Free DDoS Panel 🚀
 
 <p>
  <img src="https://img.shields.io/github/stars/hoaan1995/ZxCDDoS?color=%23DF0067&style=for-the-badge"/> &nbsp;
@@ -96,18 +96,7 @@ chmod 777 *
 python3 c2.py
 ```
 
-# Credits
-```sh
-zxcr9999 (Reworked CnC and added some methods .-.)
-SkyWtkhIsBack (Example Panel and L7 methods <3)
-Empfaked (Layer 7 methods <3)
-HyukIsBack (Layer 7 methods <3)
-im-federal (Layer 4 and AMP methods <3)
-R00tS3C (Layer 4 and AMP methods <3)
-forkyyy (LAYER 7 METHODS <3)
-Leeon123 (SPECIAL METHODS <3)
-TheSpeedX (HTTP, SOCKS5, SOCK4 proxies <3)
-```
+
 
 # TOS:
 ```sh
